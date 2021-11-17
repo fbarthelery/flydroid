@@ -26,7 +26,7 @@ plugins {
 
 allprojects {
     group = "com.geekorum.flydroid"
-    version = "0.1-SNAPSHOT"
+    version = "0.1"
 
     repositories {
         mavenCentral()

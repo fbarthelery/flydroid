@@ -90,7 +90,7 @@ job "flydroid-api" {
       }
 
       artifact {
-        source      = "http://localhost:8000/apiserver/build/libs/apiserver-0.1-SNAPSHOT-all.jar"
+        source      = "https://github.com/fbarthelery/flydroid/releases/download/0.1/apiserver-0.1-all.jar"
       }
 
       resources {
